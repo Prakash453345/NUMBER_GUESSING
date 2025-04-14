@@ -52,6 +52,6 @@ res.addEventListener("click", () => {
     
     if (attempts >= limit) {
         res.disabled = true;
-        result.innerText += `\n❌ You've used all your attempts!`;
+        result.innerText = `❌ You've used all your attempts!..\n The number is : ${num}`;
     }
 });
