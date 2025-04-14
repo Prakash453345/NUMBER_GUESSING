@@ -1,0 +1,43 @@
+.total
+{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    border:1px solid black;
+    margin-top:100px;
+    background-color: beige;
+    
+}
+
+h2
+{
+    color: red;
+}
+
+input {
+    width: 300px; 
+    height: 40px; 
+    font-size: 1.2em; 
+    padding: 10px; 
+    margin: 10px; 
+    margin-left:30px;
+}
+
+.sub
+{
+    margin-bottom: 80px;
+    width: 200px; 
+    height: 40px; 
+    font-size: 1.2em; 
+    padding: 10px; 
+    margin-left: 35px;
+}
+
+.res
+{
+    margin-bottom: 20px;
+    height:80px;
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 35px;
+}
